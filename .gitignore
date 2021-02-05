@@ -22,7 +22,7 @@ distributions/*/LICENSE
 .cache
 
 # Dist folders
-dist
+# dist
 
 # Junit reports
 reports
